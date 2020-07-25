@@ -1,5 +1,9 @@
 ### Oh, hello!
 
-❤️ I really enjoy create nice things with CSS!<br/>
-💻 I´m currently learning JavaScript<br/>
+I love art and beatiful design! I also think that UX is unavoidable, and trully believe that meaningful experiences transform a digital creation.<br/>
+------
+
+## Languages
+------
+
 ⭐️ Take a look on my projects!<br/>
